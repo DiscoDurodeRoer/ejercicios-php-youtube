@@ -1,2 +1,2 @@
 # ejercicios-php-youtube
-Ejercicios de pseudocódigo del canal de discoduroderoer
+Ejercicios de PHP del canal de discoduroderoer
