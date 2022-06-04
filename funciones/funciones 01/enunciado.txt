@@ -1,0 +1,5 @@
+1. Generar un numero aleatorio entre dos numeros.
+
+2. Crea una funcion que nos devuelva el factorial de un numero
+
+3. Generar una letra aleatoria, ya sea mayuscula o minuscula.
