@@ -1,0 +1,1 @@
+10. Crea un usuario con password con password_hash.
