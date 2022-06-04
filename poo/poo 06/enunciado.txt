@@ -1,0 +1,4 @@
+6. Crea la clase Log. Tendrá los siguiente métodos:
+
+- writeLine($type, $message): Escribe una linea en el fichero.
+- close(): Cierra el fichero.

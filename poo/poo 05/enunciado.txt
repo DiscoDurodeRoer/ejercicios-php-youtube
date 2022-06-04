@@ -1,0 +1,8 @@
+5. Crea la clase PDODB, con los siguientes métodos:
+
+- executeQuery($sql): devuelve los datos de la consulta
+- numRows($sql): devuelve el numero de filas
+- getDataSingle($sql): devuelve un dato concreto
+- executeInstruction($sql): inserta, actualiza o elimina registros
+- close(): Cierra la base de datos
+- getLastId(): Devuelve el ultimo id insertado

@@ -1,0 +1,11 @@
+3. Crea una clase para conectar MySQL y PHP.
+
+Los parametros de conexion estaran dentro de la propia clase.
+
+Con los siguientes métodos:
+    - executeQuery: Dado un sql, nos devuelve datos de la consulta.
+    - numRows: Dado un sql, devuelve el numero de filas de la consulta.
+    - getDataSingle: Dado un sql, nos devuelve la primera fila.
+    - executeInstruction: Dado un sql, devuelve el numero de filas afectadas.
+    - getLastId: Devuelve el ultimo id insertado.
+    - close: Cierra la conexion.

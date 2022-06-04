@@ -1,0 +1,1 @@
+4. Modificar la clase MysqliDb para que lance una excepcion cuando haya un error.

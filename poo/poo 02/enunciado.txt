@@ -1,0 +1,7 @@
+2. Crea una clase llamada session para manejar sesiones.
+
+Las funciones que se crearan son:
+    - setAttribute: Dado un atributo y un valor, lo seteara en la sesión.
+    - getAttribute: Dado un atributo, devolvemos el valor de la sesión.
+    - deleteAttribute: Dado un atributo, lo borraremos de la sesión.
+    - destroySession: destruye la sessión.
