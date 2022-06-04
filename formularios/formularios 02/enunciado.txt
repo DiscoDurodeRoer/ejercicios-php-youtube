@@ -1,0 +1,2 @@
+2. Teniendo dos input de type number, recogelos via post, sumalos y muestra el resultado. 
+Mejorarlo respecto el anterior.

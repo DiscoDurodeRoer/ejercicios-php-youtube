@@ -1,0 +1,1 @@
+1. Teniendo dos input de type number, recogelos via post, sumalos y muestra el resultado.

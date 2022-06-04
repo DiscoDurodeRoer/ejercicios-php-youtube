@@ -1,0 +1,1 @@
+4. Dado un input y un boton, al pulsar el boton debe añadir en un array todos los valores que vayamos añadiendo.

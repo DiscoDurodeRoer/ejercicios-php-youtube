@@ -1,0 +1,2 @@
+3. Haz un formulario con radio button para elegir circulo, triangulo y cuadrado 
+y calcular su area en cada caso. De momento poner todos los input necesarios.
