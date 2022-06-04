@@ -1,0 +1,5 @@
+1. Muestra hola mundo por pantalla.
+
+2. Crea dos variables y sumalas y muestra el resultado.
+
+3. Muestra los numeros del 1 al 10 en linea. 

@@ -1,0 +1,5 @@
+4. Meter un hola mundo dentro de una estructura html.
+
+5. Cogete cualquier imagen y pon un img con la ruta de la imagen con php.
+
+6. Create un select en HTML y metele los numeros del 1 al 10 como opciones
