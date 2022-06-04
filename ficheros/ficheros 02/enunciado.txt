@@ -1,0 +1,2 @@
+3. Dado un formulario con nombre, apellidos y edad.
+Al enviar los datos, guardaremos los datos en un JSON.
